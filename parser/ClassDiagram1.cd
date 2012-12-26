@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PCFG.Node">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAABAAAAQBAQAAAAQEAEAAAAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCFG.NodeProb">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAIAAAAAAAABAAAAAAABAAAAQEAAAEACAAA=</HashCode>
+      <FileName>NodeProb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCFG.Rule">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAhAABAAAAAAAAAAAAQEAAAAAEAAA=</HashCode>
+      <FileName>RuleProb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCFG.RuleProb">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAACAAA=</HashCode>
+      <FileName>RuleProb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCFG.Program">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="PCFG.Program.Trainer">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
